@@ -1,0 +1,6 @@
+{
+  "name": "Grace Gospel - Songs & Chords",
+  "description": "Gospel song lyrics, guitar chords, chord transposition, playlists, audio generator, daily devotionals, and PWA mobile app installation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
